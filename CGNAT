@@ -24,6 +24,8 @@ With a regular home connection (Fiber or Cable), your router is a assigned a ded
 
 That’s because CGNAT only supports return traffic, meaning you need to initial the connection first. Unsolicited inbound traffic will get dropped by the ISP’s NAT system because the entry does not exist in the NAT table.
 
+![CGNAT Diagram](https://github.com/ShadiSec/Blog/blob/main/CGNAT-Diagram.png)
+
 # Solutions
 
 If you’re stuck behind a CGNAT there are a few workarounds, but Tailscale is one of the easiest and most effective ones. Oh, and it’s FREE (for general use that is :).
