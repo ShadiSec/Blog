@@ -6,8 +6,8 @@ Welcome to my technical blog — A space where I explore and write about technic
 
 ## 📌 Featured Posts
 
-> These articles dive into foundational concepts and practical setups.
-- [Work in Progress]
+> These articles break down the core ideas behind the technology.
+- [Understanding CGNAT](https://github.com/ShadiSec/Blog/blob/main/CGNAT.md)
 
 ---
 
