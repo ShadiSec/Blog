@@ -10,7 +10,7 @@ While working on a personal project overseas using a cellular home router, I ran
 
 That’s when I discovered the problem wasn’t with my settings—it was with the network itself. I didn’t have control over a public IP address. My ISP was using Carrier-Grade NAT (CGNAT), which blocks unsolicited inbound traffic. This post explores how CGNAT works, why it limits remote access, and how I eventually worked around it using Tailscale.
 
-## What is CGNAT?
+# What is CGNAT?
 
 **CGNAT (Carrier-Grade Network Address Translation)** is a technique used by Internet Service Providers (ISPs) to conserve public IPv4 addresses by allowing **multiple users to share a single public IP address**.
 
