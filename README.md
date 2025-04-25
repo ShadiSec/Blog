@@ -8,6 +8,7 @@ Welcome to my technical blog — A space where I explore and write about technic
 
 > These articles break down the core ideas behind the technology.
 - [Understanding CGNAT](https://github.com/ShadiSec/Blog/blob/main/CGNAT/CGNAT.md)
+- [DNS Sinkhole](https://github.com/ShadiSec/Blog/blob/main/DNS-Sinkhole/DNS_Sinkhole.md)
 
 ---
 
