@@ -14,5 +14,5 @@ Welcome to my technical blog — A space where I explore and write about technic
 
 ## 🧱 Why I'm Writing This
 
-> As I build hands-on projects and learn new skills, I document things I learn to solidify my understanding and contribute back to the community. Everything here is practical and beginner-friendly.
+> As I build hands-on projects and learn new skills, I document things I learn to solidify my understanding and contribute back to the community. Everything here is beginner-friendly.
 ---
