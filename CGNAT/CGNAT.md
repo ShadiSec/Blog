@@ -34,4 +34,4 @@ Tailscale is a VPN solution that lets your devices communicate with each other o
 
 **Why it works:**
 
-One installed on both devices, Tailscale can initiate outbound connections from each device to one of its coordination servers. Since CGNAT allows outbound traffic, the connection between devices succeeds and lets Tailscale route traffic between the devices directly (via peer-to-peer) or through a relay server if it can’t establish a direct connection.
+Once installed on both devices, Tailscale can initiate outbound connections from each device to one of its coordination servers. Since CGNAT allows outbound traffic, the connection between devices succeeds and lets Tailscale route traffic between the devices directly (via peer-to-peer) or through a relay server if it can’t establish a direct connection.
