@@ -6,7 +6,7 @@ Category: Networking
 
 # What is a DNS Sinkhole?
 
-In simple terms a DNS Sinkhole is a way of blocking traffic coming from a specific domain.
+In simple terms, a DNS Sinkhole is a way of blocking traffic coming from a specific domain.
 
 # How does it work?
 
