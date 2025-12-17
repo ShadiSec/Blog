@@ -14,7 +14,7 @@ A DNS sinkhole functions as the DNS server for your network. When a device attem
 
 # How does it block ads?
 
-When you access a webpage, the page often pulls ads from separate servers (different domains). Your browser makes DNS requests to retrieve the IP addresses of these servers. A DNS sinkhole intercepts these DNS queries. If the domain name of an ad server is on the sinkhole's blacklist, it will block the DNS resolution, preventing your browser from connecting to that ad server, blocking the ads from loading. The sinkhole identifies these ad domains based on a blocklists, that is regularly update.
+When you access a webpage, the page often pulls ads from separate servers (different domains). Your browser makes DNS requests to retrieve the IP addresses of these servers. A DNS sinkhole intercepts these DNS queries. If the domain name of an ad server is on the sinkhole's blacklist, it will block the DNS resolution, preventing your browser from connecting to that ad server, blocking the ads from loading. The sinkhole identifies these ad domains based on a blacklists, that is regularly update.
 
 # Implement it
 
